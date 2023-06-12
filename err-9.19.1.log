@@ -1,0 +1,29 @@
+2023-05-05T16:01:32.021Z Error: ENOENT: no such file or directory, open 'C:\Users\Administrator\workspace\playlist\retain'
+2023-05-05T16:15:17.369Z Error
+    at ea.Il [as _getPath] (file:///c:/Users/Administrator/.vscode/extensions/yxl.cloudmusic-9.19.1-win32-x64/dist/server.mjs:36:3332)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ea.load (file:///c:/Users/Administrator/.vscode/extensions/yxl.cloudmusic-9.19.1-win32-x64/dist/server.mjs:35:11260)
+2023-05-05T16:15:17.438Z Error: EPERM: operation not permitted, open 'C:\Users\Administrator\workspace\playlist\tmp\412247172'
+2023-05-05T16:16:37.449Z RequestError: Timeout awaiting 'request' for 80000ms
+    at ClientRequest.<anonymous> (file:///c:/Users/Administrator/.vscode/extensions/yxl.cloudmusic-9.19.1-win32-x64/dist/server.mjs:33:43690)
+    at Object.onceWrapper (node:events:646:26)
+    at ClientRequest.emit (node:events:538:35)
+    at ClientRequest.emit (node:domain:475:12)
+    at Socket.socketErrorListener (node:_http_client:442:9)
+    at Socket.emit (node:events:526:28)
+    at Socket.emit (node:domain:475:12)
+    at emitErrorNT (node:internal/streams/destroy:157:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:122:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+    at Timeout.l [as _onTimeout] (file:///c:/Users/Administrator/.vscode/extensions/yxl.cloudmusic-9.19.1-win32-x64/dist/server.mjs:33:3661)
+    at listOnTimeout (node:internal/timers:561:11)
+    at process.processTimers (node:internal/timers:502:7)
+2023-05-05T16:19:07.547Z Error
+    at ea.Il [as _getPath] (file:///c:/Users/Administrator/.vscode/extensions/yxl.cloudmusic-9.19.1-win32-x64/dist/server.mjs:36:3332)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ea.load (file:///c:/Users/Administrator/.vscode/extensions/yxl.cloudmusic-9.19.1-win32-x64/dist/server.mjs:35:11260)
+2023-05-05T16:51:41.782Z Error: Failed to load C:\Users\Administrator\workspace\playlist\cache\music\The Imperial March-1487817
+    at ea._load (file:///c:/Users/Administrator/.vscode/extensions/yxl.cloudmusic-9.19.1-win32-x64/dist/server.mjs:35:13473)
+    at ea.load (file:///c:/Users/Administrator/.vscode/extensions/yxl.cloudmusic-9.19.1-win32-x64/dist/server.mjs:35:11318)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-06-11T04:32:49.243Z 帐号或密码错误
